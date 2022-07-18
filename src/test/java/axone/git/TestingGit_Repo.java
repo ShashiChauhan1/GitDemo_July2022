@@ -33,6 +33,6 @@ public class TestingGit_Repo {
     @Test
     public void test6()
     {
-        System.out.println("testing 6. ");
+        System.out.println("testing 6.. ");
     }
 }
